@@ -130,7 +130,7 @@ def charger_et_afficher_les_donnees (dataframe, title, btn_key):
 ajout_style_personnalise()
 
 # Charger le fichier CSS local pour un style supplémentaire (fichier à créer séparément)
-local_css('style_app.css')
+local_css('Style_app.css')
 
 # Titre et description de l'application
 st.markdown("<h1 style='text-align: center;'>Mon application de scraping de données (site: Coin-afrique)</h1>", unsafe_allow_html=True)
