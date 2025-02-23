@@ -1,0 +1,6 @@
+h1, h2, h3, h4, h5, h6 {
+    color: orange !important; # '!important' est une règle CSS qui force l’application du style, même si d’autres styles existent avec une priorité plus élevée. Cela permet d’éviter qu’un autre style défini ailleurs ne remplace cette règle.
+}
+.css-18e3th9, .css-1d391kg, .stButton button {
+    font-family: 'Arial', sans-serif;
+}
